@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 git clone https://github.com/quokkaproject/quokka
 git clone https://github.com/quokkaproject/flask-admin quokka-flask-admin
